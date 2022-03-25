@@ -41,7 +41,7 @@
     "karma-env-preprocessor": "^0.1.1",
     "karma-firefox-launcher": "^1.0.0",
     "karma-tap": "^2.0.1",
-    "minimist": "^1.2.3",
+    "minimist": "^1.2.6",
     "standard": "^7.1.2",
     "tape": "^4.0.3"
   },
