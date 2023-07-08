@@ -31,7 +31,7 @@
     "babelify": "^7.3.0",
     "browserify": "^13.0.0",
     "contributor": "^0.1.25",
-    "coveralls": "^2.11.4",
+    "coveralls": "^2.13.3",
     "documentation": "^3.0.4",
     "ethereumjs-testing": "0.0.1",
     "istanbul": "^0.4.1",
